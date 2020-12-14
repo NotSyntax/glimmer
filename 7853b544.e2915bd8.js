@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[12],{79:function(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome","permalink":"/glimmer/blog/welcome"},{"title":"Hello","permalink":"/glimmer/blog/hello-world"},{"title":"Hola","permalink":"/glimmer/blog/hola"}]}')}}]);

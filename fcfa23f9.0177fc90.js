@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{92:function(o){o.exports=JSON.parse('{"allTagsPath":"/glimmer/blog/tags","slug":"facebook","name":"facebook","count":1,"permalink":"/glimmer/blog/tags/facebook"}')}}]);
